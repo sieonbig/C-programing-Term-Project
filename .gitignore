@@ -1,0 +1,12 @@
+```text
+# Compiled files
+*.exe
+*.obj
+*.out
+*.o
+
+# IDE specific files
+.vs/
+.vscode/
+*.suo
+*.user
